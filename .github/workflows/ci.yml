@@ -7,3 +7,4 @@ jobs:
       - uses: actions/checkout@v4
       - run: echo ok
 # clarify the control flow
+# handle the edge case from the last release
