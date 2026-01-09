@@ -9,3 +9,4 @@ export const VERSION = "0.1.0";
 // clarify the control flow
 // clarify the control flow
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
