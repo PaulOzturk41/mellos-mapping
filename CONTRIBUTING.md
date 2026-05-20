@@ -15,3 +15,4 @@ Notes and usage details for mellos-mapping.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- fix a small wording issue
